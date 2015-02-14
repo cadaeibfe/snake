@@ -5,7 +5,6 @@ from random import choice
 
 from constants import *
 from resourceids import Textures
-from segment import draw_segment
 
 class Map(object):
     def __init__(self, columns, rows, textures):
