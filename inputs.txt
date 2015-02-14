@@ -1,0 +1,4 @@
+K_RIGHT MoveRight
+K_LEFT MoveLeft
+K_UP MoveUp
+K_DOWN MoveDown
